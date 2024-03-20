@@ -1,0 +1,43 @@
+{
+  "name": "John Doe",
+  "title": "Software Developer",
+  "email": "john@example.com",
+  "phone": "123-456-7890",
+  "address": "123 Main Street, City, State, ZIP",
+  "linkedin": "https://www.linkedin.com/in/rohan-vaidya-359680190/",
+  "github": "https://github.com/qq07",
+  "summary": "Dedicated and detail-oriented software developer with 5+ years of experience in web application development. Proficient in JavaScript, HTML/CSS, Node.js, and React. Strong problem-solving skills and ability to work well in a team environment.",
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of XYZ",
+      "location": "City, State",
+      "duration": "20XX-20XX"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Developer",
+      "company": "ABC Company",
+      "location": "City, State",
+      "duration": "20XX-present",
+      "description": "Developed and maintained web applications using JavaScript, Node.js, and React. Collaborated with cross-functional teams to deliver high-quality software solutions."
+    },
+    {
+      "title": "Junior Developer",
+      "company": "DEF Corporation",
+      "location": "City, State",
+      "duration": "20XX-20XX",
+      "description": "Assisted in the development and testing of web applications. Gained experience in version control using Git."
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "HTML/CSS",
+    "Node.js",
+    "React",
+    "Git",
+    "Problem Solving",
+    "Teamwork"
+  ]
+}
