@@ -1,0 +1,33 @@
+{
+  "name": "pdfserver",
+  "version": "1.0.0",
+  "description": "Will return users resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrr07/pdfServer.git"
+  },
+  "keywords": [
+    "resume",
+    "pdf",
+    "js"
+  ],
+  "author": "Rohan Vaidya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrr07/pdfServer/issues"
+  },
+  "homepage": "https://github.com/rrr07/pdfServer#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.18.3",
+    "html-pdf": "^3.0.1",
+    "mongoose": "^8.2.2",
+    "pdfmake": "^0.2.10",
+    "puppeteer": "^22.6.0",
+    "zod": "^3.22.4"
+  }
+}
