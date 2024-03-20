@@ -4,7 +4,8 @@
   "description": "Will return users resume",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
   },
   "repository": {
     "type": "git",
@@ -22,15 +23,7 @@
   },
   "homepage": "https://github.com/rrr07/pdfServer#readme",
   "dependencies": {
-    "axios": "^1.6.8",
-    "canvas": "^2.11.2",
     "express": "^4.18.3",
-    "html-pdf": "^3.0.1",
-    "jspdf": "^2.5.1",
-    "mongoose": "^8.2.2",
-    "pdfjs": "^2.5.3",
-    "pdfmake": "^0.2.10",
-    "puppeteer": "^22.6.0",
-    "zod": "^3.22.4"
+    "html-pdf": "^1.5.0"
   }
 }
